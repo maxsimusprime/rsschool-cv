@@ -23,3 +23,14 @@
     * Docker
     * Python (Django, JSON, Selenium testing, OOP)
     * SQL (MySQL, sqlite)
+
+# Code Example:
+```
+const recursiveFactorial = (num) => {
+  if (num > 1) {
+    return num * recursiveFactorial(num - 1);
+  } else {
+    return 1;
+  }
+}
+```
