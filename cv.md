@@ -1,0 +1,10 @@
+[rsschool-cv](https://github.com/maxsimusprime/rsschool-cv)
+----
+# Maksim Sinelnikau
+# My Contact Info:
+* __Phone:__ +375 29 777-27-72
+* __E-mail:__ [maksim.sinelnikau@gmail.com](mailto:maksim.sinelnikau@gmail.com)
+* __GitHub:__ [maxsimusprime](https://github.com/maxsimusprime)
+* __Telegram:__ [Maksim Sinelnikau](https://t.me/Ox4d6178)
+# About Me
+#### I am 38 years old. Much time I work as a сomplex electronics repair engineer. In programs development I addicted to make solution of analitics and automation trading in cryptocurrency markets (self-projects). Lately I`m  interesting in web development (back-end, framework Django) and I have to improve my skills in front-end (React). As useful hobby I like to read works on behavioral psychology, stress resistance and emotional intelligence.
