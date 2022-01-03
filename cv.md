@@ -35,10 +35,10 @@ const recursiveFactorial = (num) => {
 }
 ```
 # Education
-* Belarusian National Technical University (POIT, not graduated)
-* Python (Hexlet, self-eduacation)
-* HTML/CSS/JavaScript (in process…) (RS-School)
+* __Belarusian National Technical University__ (POIT, not graduated)
+* __Python__ (Hexlet, self-eduacation)
+* __HTML/CSS/JavaScript__ (in process…) (RS-School)
 
 # Languages
-* Russian - native speaker.
-* English - A2 (B1 in process…)
+* __Russian__ - native speaker.
+* __English__ - A2 (B1 in process…)
