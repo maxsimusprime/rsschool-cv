@@ -3,15 +3,19 @@
 }
 
 main {
-    margin-bottom: 100px;
+    margin: 0 10% 10% 10%;
 }
 
-section {
-    margin: 0 100px;
-    font-size: 20px;
+header a {
+    font-size: 2em;
 }
+
 
 .title {
     font-size: 2em;
     border-bottom: 1px dotted rgba(180, 180, 180, 0.8);
+}
+
+.content {
+    font-size: 1em;
 }
