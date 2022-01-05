@@ -30,6 +30,11 @@ b {
     color: #505050;
 }
 
+pre {
+    padding: 10px 30px;
+    background-color: #c9c9c9;
+}
+
 .card {
     display: flex;
     justify-content: space-evenly;
